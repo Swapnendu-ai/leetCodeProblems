@@ -1,2 +1,2 @@
 # leetCodeProblems
-Here are my solutions to the problems I practised on leetcode.
+Here are my solutions to the problems I played around with on leetcode.
